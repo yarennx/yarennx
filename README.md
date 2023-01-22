@@ -3,7 +3,7 @@
   <hr>
 
 
-- I’m front-end React developer
+- I’m front-end React developer.
 - You can contact me at
   yarenelemenci@gmail.com
   
