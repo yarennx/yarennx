@@ -7,6 +7,8 @@
 - You can contact me at
   yarenelemenci@gmail.com
   
+  <br>
+  
 ### Skills
 <hr>
 
